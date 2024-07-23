@@ -10,4 +10,4 @@ pico8.dat
 sdl_controllers.txt
 SDL2.dll
 Exports
-
+.gitignore
